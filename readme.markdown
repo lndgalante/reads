@@ -22,5 +22,8 @@
 - 🌑 [<b>JavaScript: The Definitive Guide</b> - <i>David Flanagan</i>](https://goo.gl/zsa06r)
 
 ## Lot of Free Books
-- :free: [<b>JSbooks</b> - <i>The best free JavaScript resources</i>](http://jsbooks.revolunet.com/)
+- 🆓 [<b>JSbooks</b> - <i>The best free JavaScript resources</i>](http://jsbooks.revolunet.com/)
 
+## Other stuff related
+- ☘ [<b>Medium</b> - <i>12 Books Every JavaScript Developer Should Read</i>](https://medium.com/javascript-scene/12-books-every-javascript-developer-should-read-9da76157fb3#.3z9dzgjn9)
+- 📖 [<b>JavaScript Books</b> - <i>Dr. Axel Rauschmayer</i>](http://exploringjs.com/)
