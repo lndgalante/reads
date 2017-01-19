@@ -18,10 +18,12 @@
 
 ## Books I would like to read next
 - 🌑 [<b>You Don't Know JS</b> (6 books) - <i>Kyle Simpsons</i>](https://goo.gl/dsVt9t)
-- 🌑 [<b>Modular JavaScript</b> (5 books) - <i>Kyle Simpsons</i>](https://mjavascript.com/)
+- 🌑 [<b>Modular JavaScript</b> (5 books) - <i>Kyle Simpsons</i>](https://goo.gl/04ferO)
 - 🌑 [<b>JavaScript: The Good Parts</b> - <i>Douglas Crockford</i>](https://goo.gl/hKes2L)
 - 🌑 [<b>JavaScript: The Definitive Guide</b> - <i>David Flanagan</i>](https://goo.gl/zsa06r)
 - 🌑 [<b>JavaScript: JavaScript Design Patterns</b> - <i>David Flanagan</i>](https://goo.gl/2AsIwc)
+- 🌑 [<b>Don't Make Me Think</b> - <i>Steve Krug</i>](https://goo.gl/rrIw0v)
+
 
 ## Lot of Free Books
 - 🆓 [<b>JSbooks</b> - <i>The best free JavaScript resources</i>](http://jsbooks.revolunet.com/)
