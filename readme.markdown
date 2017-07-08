@@ -39,3 +39,14 @@
 
 - ☘ [<b>Medium</b> - <i>12 Books Every JavaScript Developer Should Read</i>](https://medium.com/javascript-scene/12-books-every-javascript-developer-should-read-9da76157fb3#.3z9dzgjn9)
 - 📖 [<b>JavaScript Books</b> - <i>Dr. Axel Rauschmayer</i>](http://exploringjs.com/)
+
+## Small guides
+
+* [AirBnB Style Guide](https://github.com/airbnb/javascript)
+* [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
+* [Front-end Handbook](https://github.com/FrontendMasters/front-end-handbook-2017)
+* [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS)
+* [JavaScript for Cats](http://jsforcats.com)
+* [IdiomaticJS](https://github.com/rwaldron/idiomatic.js)
+* [NPM Coding Style](https://docs.npmjs.com/misc/coding-style)
+* [qualityGuide() by Bevacqua](https://github.com/bevacqua/js)a
