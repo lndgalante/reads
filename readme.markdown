@@ -27,6 +27,7 @@
 
 - 🌑 [<b>Modular JavaScript</b> (5 books) - <i>Nicolas Bevacqua</i>](https://goo.gl/04ferO)
 - 🌑 [<b>The JavaScript Way</b> - <i>Baptiste Pesquet</i>](https://goo.gl/JG3sHg)
+- 🌑 [<b>Effective JavaScript</b> - <i>David Herman</i>](http://effectivejs.com)
 - 🌑 [<b>JavaScript: The Good Parts</b> - <i>Douglas Crockford</i>](https://goo.gl/hKes2L)
 - 🌑 [<b>JavaScript: The Definitive Guide</b> - <i>David Flanagan</i>](https://goo.gl/zsa06r)
 - 🌑 [<b>JavaScript: JavaScript Design Patterns</b> - <i>David Flanagan</i>](https://goo.gl/2AsIwc)
