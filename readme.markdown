@@ -17,7 +17,7 @@
 - 🌟 [<b>You Don't Know JS - Up and Going</b> -  <i>Kyle Simpsons</i>](https://goo.gl/dsVt9t)
 - 🌟 [<b>You Don't Know JS - Scope and Closures</b> -  <i>Kyle Simpsons</i>](https://goo.gl/92UEXq)
 - 🌟 [<b>You Don't Know JS - this & Object Prototypes</b> -  <i>Kyle Simpsons</i>](https://goo.gl/Rpv7sr)
-- 🌑 [<b>You Don't Know JS - Types and Grammar</b> -  <i>Kyle Simpsons</i>](https://goo.gl/scgKgk)
+- 🌟 [<b>You Don't Know JS - Types and Grammar</b> -  <i>Kyle Simpsons</i>](https://goo.gl/scgKgk)
 - 🌑 [<b>You Don't Know JS - Async and Performance</b> -  <i>Kyle Simpsons</i>](https://goo.gl/RMzTzK)
 - 🌑 [<b>You Don't Know JS - ES6 & Beyond</b> -  <i>Kyle Simpsons</i>](https://goo.gl/pYjtv9)
 - 🌑 [<b>The complete Redux book</b> -  <i>Boris Dinkevich & Ilya Gelman</i>](https://goo.gl/WmyULy)
@@ -52,4 +52,4 @@
 * [JavaScript for Cats](http://jsforcats.com)
 * [IdiomaticJS](https://github.com/rwaldron/idiomatic.js)
 * [NPM Coding Style](https://docs.npmjs.com/misc/coding-style)
-* [qualityGuide() by Bevacqua](https://github.com/bevacqua/js)a
+* [qualityGuide() by Bevacqua](https://github.com/bevacqua/js)
