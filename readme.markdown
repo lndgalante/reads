@@ -18,7 +18,7 @@
 - 🌟 [<b>You Don't Know JS - Scope and Closures</b> -  <i>Kyle Simpsons</i>](https://goo.gl/92UEXq)
 - 🌟 [<b>You Don't Know JS - this & Object Prototypes</b> -  <i>Kyle Simpsons</i>](https://goo.gl/Rpv7sr)
 - 🌟 [<b>You Don't Know JS - Types and Grammar</b> -  <i>Kyle Simpsons</i>](https://goo.gl/scgKgk)
-- 🌑 [<b>You Don't Know JS - Async and Performance</b> -  <i>Kyle Simpsons</i>](https://goo.gl/RMzTzK)
+- 🌟 [<b>You Don't Know JS - Async and Performance</b> -  <i>Kyle Simpsons</i>](https://goo.gl/RMzTzK)
 - 🌑 [<b>You Don't Know JS - ES6 & Beyond</b> -  <i>Kyle Simpsons</i>](https://goo.gl/pYjtv9)
 - 🌑 [<b>The complete Redux book</b> -  <i>Boris Dinkevich & Ilya Gelman</i>](https://goo.gl/WmyULy)
 - 🌑 [<b>Eloquent JavaScript</b> - <i>Marijn Haverbeke</i>](https://goo.gl/IHFH67)
@@ -35,7 +35,7 @@
 
 ## Lot of Free Books
 
-- 🆓 [<b>JSbooks</b> - <i>The best free JavaScript resources</i>](http://jsbooks.revolunet.com/)
+- 🆓 [<b>JSbooks</b> - <i>The best free JavaScript resources</i>](http://jsbooks.revolunet.com)
 
 ## Other stuff related
 
@@ -53,3 +53,4 @@
 * [IdiomaticJS](https://github.com/rwaldron/idiomatic.js)
 * [NPM Coding Style](https://docs.npmjs.com/misc/coding-style)
 * [qualityGuide() by Bevacqua](https://github.com/bevacqua/js)
+* [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
