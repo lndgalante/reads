@@ -19,12 +19,14 @@
 - 🌟 [<b>You Don't Know JS - this & Object Prototypes</b> -  <i>Kyle Simpsons</i>](https://goo.gl/Rpv7sr)
 - 🌟 [<b>You Don't Know JS - Types and Grammar</b> -  <i>Kyle Simpsons</i>](https://goo.gl/scgKgk)
 - 🌟 [<b>You Don't Know JS - Async and Performance</b> -  <i>Kyle Simpsons</i>](https://goo.gl/RMzTzK)
-- 🌑 [<b>You Don't Know JS - ES6 & Beyond</b> -  <i>Kyle Simpsons</i>](https://goo.gl/pYjtv9)
+- 🌟 [<b>You Don't Know JS - ES6 & Beyond</b> -  <i>Kyle Simpsons</i>](https://goo.gl/pYjtv9)
 - 🌑 [<b>The complete Redux book</b> -  <i>Boris Dinkevich & Ilya Gelman</i>](https://goo.gl/WmyULy)
 - 🌑 [<b>Eloquent JavaScript</b> - <i>Marijn Haverbeke</i>](https://goo.gl/IHFH67)
+- 🌑 [<b>React Native - Building Mobile Apps with JavaScript</b> - <i>Vladimir Novick</i>](https://goo.gl/qyS4YB)
 
 ## Books I would like to read next
 
+- 🌑 [<b>Functional-Light JavaScript</b> - <i>Steve Krug</i>](https://leanpub.com/fljs)
 - 🌑 [<b>Modular JavaScript</b> (5 books) - <i>Nicolas Bevacqua</i>](https://goo.gl/04ferO)
 - 🌑 [<b>The JavaScript Way</b> - <i>Baptiste Pesquet</i>](https://goo.gl/JG3sHg)
 - 🌑 [<b>Effective JavaScript</b> - <i>David Herman</i>](http://effectivejs.com)
@@ -55,3 +57,5 @@
 * [NPM Coding Style](https://docs.npmjs.com/misc/coding-style)
 * [qualityGuide() by Bevacqua](https://github.com/bevacqua/js)
 * [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
+* [Front-end Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+* [HEAD](https://github.com/joshbuchea/HEAD)
