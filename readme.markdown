@@ -34,6 +34,7 @@
 * 🌑 [<b>JavaScript: The Definitive Guide</b> - <i>David Flanagan</i>](https://goo.gl/zsa06r)
 * 🌑 [<b>JavaScript: JavaScript Design Patterns</b> - <i>David Flanagan</i>](https://goo.gl/2AsIwc)
 * 🌑 [<b>Don't Make Me Think</b> - <i>Steve Krug</i>](https://goo.gl/rrIw0v)
+* 🌑 [<b>Practical Node.js: Building Real-World Scalable Web Apps</b> - <i>Azat Mardan</i>](https://goo.gl/SyRrC1)
 
 ## Lot of Free Books
 
