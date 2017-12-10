@@ -61,3 +61,7 @@
 * [The Modern JavaScript Tutorial](http://javascript.info)
 * [Front-end Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 * [HEAD](https://github.com/joshbuchea/HEAD)
+
+## Conferences
+
+* [Must-Watch JavaScript](https://github.com/AllThingsSmitty/must-watch-javascript)
