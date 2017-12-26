@@ -47,6 +47,7 @@
 * 📖 [<b>JavaScript Books</b> - <i>Dr. Axel Rauschmayer</i>](http://exploringjs.com)
 * 📖 [<b>Coding for Interviews</b> - <i>Brian Jordan</i>](http://codingforinterviews.com/books)
 * 📖 [<b>Web Developer Roadmap</b> - <i>Kamran Ahmed</i>](https://github.com/kamranahmedse/developer-roadmap)
+* 📖 [<b>Essential Programming Books</b> - <i>Good Reads</i>](https://www.goodreads.com/list/show/542.Essential_Programming_Books)
 
 ## Small guides
 
