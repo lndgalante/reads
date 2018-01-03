@@ -26,7 +26,8 @@
 
 ## Books I would like to read next
 
-* 🌑 [<b>Functional-Light JavaScript</b> - <i>Steve Krug</i>](https://leanpub.com/fljs)
+* 🌑 [<b>Functional-Light JavaScript</b> - <i>Kyle Simpson</i>](https://leanpub.com/fljs)
+* 🌑 [The Modern JavaScript Tutorial](http://javascript.info)
 * 🌑 [<b>Modular JavaScript</b> (5 books) - <i>Nicolas Bevacqua</i>](https://goo.gl/04ferO)
 * 🌑 [<b>The JavaScript Way</b> - <i>Baptiste Pesquet</i>](https://goo.gl/JG3sHg)
 * 🌑 [<b>Effective JavaScript</b> - <i>David Herman</i>](http://effectivejs.com)
@@ -60,9 +61,9 @@
 * [NPM Coding Style](https://docs.npmjs.com/misc/coding-style)
 * [qualityGuide() by Bevacqua](https://github.com/bevacqua/js)
 * [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
-* [The Modern JavaScript Tutorial](http://javascript.info)
 * [Front-end Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 * [HEAD](https://github.com/joshbuchea/HEAD)
+* [Effective Engineer - Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
 
 ## Conferences
 
