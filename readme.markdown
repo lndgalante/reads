@@ -34,9 +34,10 @@
 * 🌑 [<b>JavaScript: The Good Parts</b> - <i>Douglas Crockford</i>](https://goo.gl/hKes2L)
 * 🌑 [<b>JavaScript: The Definitive Guide</b> - <i>David Flanagan</i>](https://goo.gl/zsa06r)
 * 🌑 [<b>JavaScript: JavaScript Design Patterns</b> - <i>David Flanagan</i>](https://goo.gl/2AsIwc)
-* 🌑 [<b>Don't Make Me Think</b> - <i>Steve Krug</i>](https://goo.gl/rrIw0v)
+* 🌑 [<b>Secrets of the JavaScript Ninja</b> - <i>John Resig and Bear Bibeault</i>](https://goo.gl/z7HKtJ)
 * 🌑 [<b>Practical Node.js: Building Real-World Scalable Web Apps</b> - <i>Azat Mardan</i>](https://goo.gl/SyRrC1)
 * 🌑 [<b>CSS: The Definitive Guide: Visual Presentation for the Web </b> - <i>Eric A. Meyer</i>](https://goo.gl/DK93Jw)
+* 🌑 [<b>Don't Make Me Think</b> - <i>Steve Krug</i>](https://goo.gl/rrIw0v)
 
 ## Lot of Free Books
 
