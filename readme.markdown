@@ -1,6 +1,6 @@
 # Reads
 
-> :books: A list of physical books I own.
+> :books: A list of physical books I own and would like to have
 
 ## Ratings
 
