@@ -38,6 +38,7 @@
 * 🌑 [<b>Practical Node.js: Building Real-World Scalable Web Apps</b> - <i>Azat Mardan</i>](https://goo.gl/SyRrC1)
 * 🌑 [<b>CSS: The Definitive Guide: Visual Presentation for the Web </b> - <i>Eric A. Meyer</i>](https://goo.gl/DK93Jw)
 * 🌑 [<b>Don't Make Me Think</b> - <i>Steve Krug</i>](https://goo.gl/rrIw0v)
+* 🌑 [<b>Human Redux</b> - <i>Henrik Joreteg</i>](https://goo.gl/6ah9NM)
 
 ## Lot of Free Books
 
