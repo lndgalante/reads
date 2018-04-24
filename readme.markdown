@@ -40,6 +40,10 @@
 * 🌑 [<b>Don't Make Me Think</b> - <i>Steve Krug</i>](https://goo.gl/rrIw0v)
 * 🌑 [<b>Human Redux</b> - <i>Henrik Joreteg</i>](https://goo.gl/6ah9NM)
 
+## Great Editorials
+
+* [<b>A Book Apart</b>](https://abookapart.com)
+
 ## Lot of Free Books
 
 * 🆓 [<b>JSbooks</b> - <i>The best free JavaScript resources</i>](http://jsbooks.revolunet.com)
