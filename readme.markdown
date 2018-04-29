@@ -43,6 +43,7 @@
 ## Great Editorials
 
 * [<b>A Book Apart</b>](https://abookapart.com)
+* [<b>Packt</b>](https://www.packtpub.com)
 
 ## Lot of Free Books
 
