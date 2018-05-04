@@ -26,8 +26,10 @@
 
 ## Books I would like to read next
 
+* 🌑 [<b>Modern Web Development</b> - <i>Flavio Copes</i>](https://gumroad.com/l/FKbd/50off)
 * 🌑 [<b>Functional-Light JavaScript</b> - <i>Kyle Simpson</i>](https://leanpub.com/fljs)
-* 🌑 [The Modern JavaScript Tutorial](http://javascript.info)
+* 🌑 [<b>The Modern JavaScript Tutorial</b> - <i>Ilya Kantor</i>](http://javascript.info)
+* 🌑 [<b>JavaScript Notes for Professionals</b> - <i>Goal Kicker</i>](https://goalkicker.com/JavaScriptBook)
 * 🌑 [<b>Modular JavaScript</b> (5 books) - <i>Nicolas Bevacqua</i>](https://goo.gl/04ferO)
 * 🌑 [<b>The JavaScript Way</b> - <i>Baptiste Pesquet</i>](https://goo.gl/JG3sHg)
 * 🌑 [<b>Effective JavaScript</b> - <i>David Herman</i>](http://effectivejs.com)
