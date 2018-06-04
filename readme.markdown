@@ -41,6 +41,8 @@
 * 🌑 [<b>CSS: The Definitive Guide: Visual Presentation for the Web </b> - <i>Eric A. Meyer</i>](https://goo.gl/DK93Jw)
 * 🌑 [<b>Don't Make Me Think</b> - <i>Steve Krug</i>](https://goo.gl/rrIw0v)
 * 🌑 [<b>Human Redux</b> - <i>Henrik Joreteg</i>](https://goo.gl/6ah9NM)
+* 🌑 [<b>Pure React</b> - <i>Dave Ceddia</i>](https://goo.gl/U1ezSX)
+* 🌑 [<b>The Redux Books</b> - <i>Ohans Emmanuel</i>](https://goo.gl/jjt7VM)
 
 ## Great Editorials
 
