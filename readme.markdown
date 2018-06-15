@@ -47,6 +47,7 @@
 
 ## Great Editorials
 
+- [<b>Smashing Magazine</b>](https://www.smashingmagazine.com/printed-books)
 - [<b>No Starch Press</b>](https://nostarch.com)
 - [<b>A Book Apart</b>](https://abookapart.com)
 - [<b>Packt</b>](https://www.packtpub.com)
