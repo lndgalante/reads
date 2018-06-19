@@ -44,6 +44,7 @@
 - 🌑 [<b>Pure React</b> - <i>Dave Ceddia</i>](https://goo.gl/U1ezSX)
 - 🌑 [<b>The Redux Books</b> - <i>Ohans Emmanuel</i>](https://goo.gl/jjt7VM)
 - 🌑 [<b>Mastering Async/Await</b> - <i>Valeri Karpov</i>](https://goo.gl/TA91fw)
+- 🌑 [<b>The GraphQL Guide</b> - <i>John Resig</i>](https://goo.gl/LCNonm)
 
 ## Great Editorials
 
