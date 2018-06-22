@@ -45,6 +45,7 @@
 - 🌑 [<b>The Redux Books</b> - <i>Ohans Emmanuel</i>](https://goo.gl/jjt7VM)
 - 🌑 [<b>Mastering Async/Await</b> - <i>Valeri Karpov</i>](https://goo.gl/TA91fw)
 - 🌑 [<b>The GraphQL Guide</b> - <i>John Resig</i>](https://goo.gl/LCNonm)
+- 🌑 [<b>Simplifying JavaScript: Writing Modern JavaScript with ES5, ES6, and Beyond</b> - <i>Joe Morgan</i>](https://goo.gl/6vhfPu)
 
 ## Great Editorials
 
