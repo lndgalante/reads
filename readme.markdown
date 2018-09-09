@@ -27,6 +27,7 @@
 
 ## Books I would like to read next
 
+- 🌑 [<b>Node Handbook</b> - <i>Flavio Copes</i>](https://pages.convertkit.com/c4dae3f868/6a9bd46ee1)
 - 🌑 [<b>Functional-Light JavaScript</b> - <i>Kyle Simpson</i>](https://leanpub.com/fljs)
 - 🌑 [<b>The Modern JavaScript Tutorial</b> - <i>Ilya Kantor</i>](http://javascript.info)
 - 🌑 [<b>JavaScript Notes for Professionals</b> - <i>Goal Kicker</i>](https://goalkicker.com/JavaScriptBook)
