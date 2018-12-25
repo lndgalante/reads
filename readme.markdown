@@ -18,10 +18,10 @@
 - 🌟 [<b>You Don't Know JS - Scope and Closures</b> - <i>Kyle Simpsons</i>](https://goo.gl/92UEXq)
 - 🌟 [<b>You Don't Know JS - this & Object Prototypes</b> - <i>Kyle Simpsons</i>](https://goo.gl/Rpv7sr)
 - 🌟 [<b>You Don't Know JS - Types and Grammar</b> - <i>Kyle Simpsons</i>](https://goo.gl/scgKgk)
-- 🌟 [<b>You Don't Know JS - Async and Performance</b> - <i>Kyle Simpsons</i>](https://goo.gl/RMzTzK)
+- 🌕 [<b>You Don't Know JS - Async and Performance</b> - <i>Kyle Simpsons</i>](https://goo.gl/RMzTzK)
 - 🌟 [<b>You Don't Know JS - ES6 & Beyond</b> - <i>Kyle Simpsons</i>](https://goo.gl/pYjtv9)
 - 🌝 [<b>Eloquent JavaScript</b> - <i>Marijn Haverbeke</i>](https://goo.gl/IHFH67)
-- 🌘 [<b>Modern Web Development</b> - <i>Flavio Copes</i>](https://gumroad.com/l/FKbd/50off)
+- 🌕 [<b>Modern Web Development</b> - <i>Flavio Copes</i>](https://gumroad.com/l/FKbd/50off)
 - 🌑 [<b>The complete Redux book</b> - <i>Boris Dinkevich & Ilya Gelman</i>](https://goo.gl/WmyULy)
 - 🌑 [<b>React Native - Building Mobile Apps with JavaScript</b> - <i>Vladimir Novick</i>](https://goo.gl/qyS4YB)
 
