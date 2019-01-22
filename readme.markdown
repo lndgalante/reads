@@ -23,11 +23,12 @@
 - 🌝 [<b>Eloquent JavaScript</b> - <i>Marijn Haverbeke</i>](https://goo.gl/IHFH67)
 - 🌕 [<b>Modern Web Development</b> - <i>Flavio Copes</i>](https://gumroad.com/l/FKbd)
 - 🌕 [<b>Desarrollo de Aplicaciones Web con React.js y Redux.js</b> - <i>Sergio Daniel Xalambrí</i>](https://goo.gl/qYBCJb)
-- 🌑 [<b>The complete Redux book</b> - <i>Boris Dinkevich & Ilya Gelman</i>](https://goo.gl/WmyULy)
+- 🌟 [<b>The complete Redux book</b> - <i>Boris Dinkevich & Ilya Gelman</i>](https://goo.gl/WmyULy)
 - 🌑 [<b>React Native - Building Mobile Apps with JavaScript</b> - <i>Vladimir Novick</i>](https://goo.gl/qyS4YB)
 
 ## Books I would like to read next
 
+- 🌑 [<b>Robust Client-Side JavaScript A Developer’s Guide</b> - <i>Mathias Schäfer</i>](https://goo.gl/d4zaBY)
 - 🌑 [<b>Node Handbook</b> - <i>Flavio Copes</i>](https://pages.convertkit.com/c4dae3f868/6a9bd46ee1)
 - 🌑 [<b>Functional-Light JavaScript</b> - <i>Kyle Simpson</i>](https://leanpub.com/fljs)
 - 🌑 [<b>The Modern JavaScript Tutorial</b> - <i>Ilya Kantor</i>](http://javascript.info)
