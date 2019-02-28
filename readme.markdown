@@ -29,11 +29,11 @@
 - 🌕 [<b>The JavaScript Handbook</b> - <i>Flavio Copes</i>](https://flaviocopes.com/page/ebooks-links)
 - 🌕 [<b>JavaScript from ES5 to ESNext</b> - <i>Flavio Copes</i>](https://flaviocopes.com/page/ebooks-links)
 - 🌕 [<b>The React Handbook</b> - <i>Flavio Copes</i>](https://flaviocopes.com/page/ebooks-links)
+- 🌕 [<b>The Node.js Handbook</b> - <i>Flavio Copes</i>](https://flaviocopes.com/page/ebooks-links)
+- 🌘 [<b>The Express.js Handbook</b> - <i>Flavio Copes</i>](https://flaviocopes.com/page/ebooks-links)
 
 ## Books I would like to read next
 
-- 🌑 [<b>The Node.js Handbook</b> - <i>Flavio Copes</i>](https://flaviocopes.com/page/ebooks-links)
-- 🌑 [<b>The Express.js Handbook</b> - <i>Flavio Copes</i>](https://flaviocopes.com/page/ebooks-links)
 - 🌑 [<b>Functional-Light JavaScript</b> - <i>Kyle Simpson</i>](https://leanpub.com/fljs)
 - 🌑 [<b>The Modern JavaScript Tutorial</b> - <i>Ilya Kantor</i>](http://javascript.info)
 - 🌑 [<b>JavaScript Notes for Professionals</b> - <i>Goal Kicker</i>](https://goalkicker.com/JavaScriptBook)
