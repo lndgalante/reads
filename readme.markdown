@@ -1,6 +1,6 @@
 # Reads
 
-> :books: A list of physical books I own and would like to have
+> :books: A list of tech books I own and would like to have
 
 ## Ratings
 
@@ -30,7 +30,7 @@
 - 🌕 [<b>JavaScript from ES5 to ESNext</b> - <i>Flavio Copes</i>](https://flaviocopes.com/page/ebooks-links)
 - 🌕 [<b>The React Handbook</b> - <i>Flavio Copes</i>](https://flaviocopes.com/page/ebooks-links)
 - 🌕 [<b>The Node.js Handbook</b> - <i>Flavio Copes</i>](https://flaviocopes.com/page/ebooks-links)
-- 🌘 [<b>The Express.js Handbook</b> - <i>Flavio Copes</i>](https://flaviocopes.com/page/ebooks-links)
+- 🌕 [<b>The Express.js Handbook</b> - <i>Flavio Copes</i>](https://flaviocopes.com/page/ebooks-links)
 
 ## Books I would like to read next
 
