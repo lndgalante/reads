@@ -1,6 +1,6 @@
 # Reads
 
-> :books: A list of tech books I own and would like to have
+> :books: A list of recommended books, style guides and conferences
 
 ## Ratings
 
@@ -9,6 +9,11 @@
 - 🌕 Finished reading, liked it
 - 🌝 **Wouldn't recommend**
 - 🌟 **Loved it**
+
+## Highly Recommended
+
+- 🆓 [<b>JSbooks</b> - <i>The best free JavaScript resources</i>](http://jsbooks.revolunet.com)
+- 🆓 [<b>The JavaScript Developer's Reading List</b> - <i>A list of hand-picked books and articles for JavaScript developers</i>](https://github.com/twhite96/js-dev-reads)
 
 ## Books I have
 
@@ -64,11 +69,7 @@
 - [<b>The Pragmatic Bookshelf</b>](https://pragprog.com)
 - [<b>Rosenfeld</b>](https://rosenfeldmedia.com/books)
 
-## Lot of Free Books
-
-- 🆓 [<b>JSbooks</b> - <i>The best free JavaScript resources</i>](http://jsbooks.revolunet.com)
-
-## Other stuff related
+## Related
 
 - ☘ [<b>Medium</b> - <i>12 Books Every JavaScript Developer Should Read</i>](https://medium.com/javascript-scene/12-books-every-javascript-developer-should-read-9da76157fb3#.3z9dzgjn9)
 - 📖 [<b>JavaScript Books</b> - <i>Dr. Axel Rauschmayer</i>](http://exploringjs.com)
