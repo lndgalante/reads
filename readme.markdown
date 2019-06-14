@@ -36,6 +36,8 @@
 - 🌕 [<b>The React Handbook</b> - <i>Flavio Copes</i>](https://flaviocopes.com/page/ebooks-links)
 - 🌕 [<b>The Node.js Handbook</b> - <i>Flavio Copes</i>](https://flaviocopes.com/page/ebooks-links)
 - 🌕 [<b>The Express.js Handbook</b> - <i>Flavio Copes</i>](https://flaviocopes.com/page/ebooks-links)
+- 🌕 [<b>The CSS Handbook</b> - <i>Flavio Copes</i>](https://flaviocopes.com/page/ebooks-links)
+- 🌘 [<b>JavaScript Allongé, the "Six" Edition</b> - <i>Reg “raganwald” Braithwaite</i>](https://leanpub.com/javascriptallongesix/read)
 
 ## Books I would like to read next
 
