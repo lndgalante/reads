@@ -70,6 +70,7 @@
 - [<b>Packt</b>](https://www.packtpub.com)
 - [<b>The Pragmatic Bookshelf</b>](https://pragprog.com)
 - [<b>Rosenfeld</b>](https://rosenfeldmedia.com/books)
+- [<b>Manning Publications</b>](https://www.manning.com/)
 
 ## Related
 
