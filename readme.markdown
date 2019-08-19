@@ -63,6 +63,26 @@
 - 🌑 [<b>Refactoring: Improving the Design of Existing Code - (Addison-Wesley Signature Series (Fowler))</i>](https://goo.gl/qehe3a)
 - 🌑 [<b>TypeScript Deep Dive - Basarat Ali Syed</i>](https://bit.ly/1WyKNUo)
 
+## GitHub Repos
+
+- 🌑 [<b>Developer Roadmap</i>](https://github.com/kamranahmedse/developer-roadmap)
+- 🌑 [<b>JavaScript Info</i>](https://github.com/javascript-tutorial/en.javascript.info)
+- 🌑 [<b>TypeScript Book</i>](https://github.com/basarat/typescript-book)
+- 🌑 [<b>JavaScript Design Patterns for Humans</i>](https://github.com/sohamkamani/javascript-design-patterns-for-humans)
+- 🌑 [<b>33 JS Concepts</i>](https://github.com/leonardomso/33-js-concepts)
+- 🌑 [<b>30 Seconds of Code</i>](https://github.com/30-seconds/30-seconds-of-code)
+- 🌑 [<b>Professional Programming</i>](https://github.com/charlax/professional-programming)
+- 🌑 [<b>Spellbook of Modern Webdev</i>](https://github.com/dexteryy/spellbook-of-modern-webdev)
+- 🌑 [<b>The Book of Secret Knowledge</i>](https://github.com/trimstray/the-book-of-secret-knowledge)
+- 🌑 [<b>Git Flight Rules</i>](https://github.com/k88hudson/git-flight-rules)
+- 🌑 [<b>Commit Message Guide</i>](https://github.com/RomuloOliveira/commit-messages-guide)
+- 🌑 [<b>Node.js Best Practices</i>](https://github.com/goldbergyoni/nodebestpractices)
+- 🌑 [<b>Learn RegEx The Right Way</i>](https://github.com/ziishaned/learn-regex)
+- 🌑 [<b>Project Guidelines</i>](https://github.com/elsewhencode/project-guidelines)
+- 🌑 [<b>Frontend Wizard</i>](https://github.com/kieranmv95/Front-End-Wizard)
+- 🌑 [<b>Frontend Checklist</i>](https://github.com/thedaviddias/Front-End-Checklist)
+- 🌑 [<b>Open Source Society University</i>](https://github.com/ossu/computer-science)
+- 🌑 [<b>Awesome Learning Collection</i>](https://github.com/johnpaulada/awesome-learning-collections)
 
 ## Great Editorials
 
