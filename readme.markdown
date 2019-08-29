@@ -66,6 +66,7 @@
 ## GitHub Repos
 
 - [<b>Developer Roadmap</i>](https://github.com/kamranahmedse/developer-roadmap)
+- [<b>JavaScript Questions</i>](https://github.com/lydiahallie/javascript-questions)
 - [<b>JavaScript Testing Best Practices</i>](https://github.com/goldbergyoni/javascript-testing-best-practices)
 - [<b>JavaScript Info</i>](https://github.com/javascript-tutorial/en.javascript.info)
 - [<b>TypeScript Book</i>](https://github.com/basarat/typescript-book)
