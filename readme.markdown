@@ -62,6 +62,7 @@
 - 🌑 [<b>Simplifying JavaScript: Writing Modern JavaScript with ES5, ES6, and Beyond</b> - <i>Joe Morgan</i>](https://goo.gl/6vhfPu)
 - 🌑 [<b>Refactoring: Improving the Design of Existing Code - (Addison-Wesley Signature Series (Fowler))</i>](https://goo.gl/qehe3a)
 - 🌑 [<b>TypeScript Deep Dive - Basarat Ali Syed</i>](https://bit.ly/1WyKNUo)
+- 🌑 [<b>Serverless Handbook for Frontend Engineers - Swizec</i>](https://serverlesshandbook.dev)
 
 ## GitHub Repos
 
