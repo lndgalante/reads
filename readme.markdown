@@ -37,7 +37,8 @@
 - 🌕 [<b>The Node.js Handbook</b> - <i>Flavio Copes</i>](https://flaviocopes.com/page/ebooks-links)
 - 🌕 [<b>The Express.js Handbook</b> - <i>Flavio Copes</i>](https://flaviocopes.com/page/ebooks-links)
 - 🌕 [<b>The CSS Handbook</b> - <i>Flavio Copes</i>](https://flaviocopes.com/page/ebooks-links)
-- 🌘 [<b>JavaScript Allongé, the "Six" Edition</b> - <i>Reg “raganwald” Braithwaite</i>](https://leanpub.com/javascriptallongesix/read)
+- 🌗 [<b>JavaScript Allongé, the "Six" Edition</b> - <i>Reg “raganwald” Braithwaite</i>](https://leanpub.com/javascriptallongesix/read)
+- 🌗 [<b>Programming TypeScript</b> - <i>Boris Cherny</i>](https://www.oreilly.com/library/view/programming-typescript/9781492037644/)
 
 ## Books I would like to read next
 
@@ -63,6 +64,7 @@
 - 🌑 [<b>Refactoring: Improving the Design of Existing Code - (Addison-Wesley Signature Series (Fowler))</i>](https://goo.gl/qehe3a)
 - 🌑 [<b>TypeScript Deep Dive - Basarat Ali Syed</i>](https://bit.ly/1WyKNUo)
 - 🌑 [<b>Serverless Handbook for Frontend Engineers - Swizec</i>](https://serverlesshandbook.dev)
+- 🌑 [<b>JavaScript-mancy</b> - <i>Jaime González García</i>](https://www.javascriptmancy.com)
 
 ## GitHub Repos
 
