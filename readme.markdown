@@ -37,6 +37,7 @@
 - 🌕 [<b>The Node.js Handbook</b> - <i>Flavio Copes</i>](https://flaviocopes.com/page/ebooks-links)
 - 🌕 [<b>The Express.js Handbook</b> - <i>Flavio Copes</i>](https://flaviocopes.com/page/ebooks-links)
 - 🌕 [<b>The CSS Handbook</b> - <i>Flavio Copes</i>](https://flaviocopes.com/page/ebooks-links)
+- 🌕 [<b>The Next.js Handbook</b> - <i>Flavio Copes</i>](https://flaviocopes.com/page/ebooks-links)
 - 🌗 [<b>JavaScript Allongé, the "Six" Edition</b> - <i>Reg “raganwald” Braithwaite</i>](https://leanpub.com/javascriptallongesix/read)
 - 🌗 [<b>Programming TypeScript</b> - <i>Boris Cherny</i>](https://www.oreilly.com/library/view/programming-typescript/9781492037644/)
 
