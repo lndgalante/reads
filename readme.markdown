@@ -38,9 +38,9 @@
 - 🌕 [<b>The Express.js Handbook</b> - <i>Flavio Copes</i>](https://flaviocopes.com/page/ebooks-links)
 - 🌕 [<b>The CSS Handbook</b> - <i>Flavio Copes</i>](https://flaviocopes.com/page/ebooks-links)
 - 🌕 [<b>The Next.js Handbook</b> - <i>Flavio Copes</i>](https://flaviocopes.com/page/ebooks-links)
-- 🌗 [<b>JavaScript Allongé, the "Six" Edition</b> - <i>Reg “raganwald” Braithwaite</i>](https://leanpub.com/javascriptallongesix/read)
-- 🌗 [<b>Programming TypeScript</b> - <i>Boris Cherny</i>](https://www.oreilly.com/library/view/programming-typescript/9781492037644/)
-- 🌑 [<b>The Opinionated Guide to React</b> - <i>Sara Vieira</i>](https://leanpub.com/fljs)
+- 🌕 [<b>JavaScript Allongé, the "Six" Edition</b> - <i>Reg “raganwald” Braithwaite</i>](https://leanpub.com/javascriptallongesix/read)
+- 🌕 [<b>Programming TypeScript</b> - <i>Boris Cherny</i>](https://www.oreilly.com/library/view/programming-typescript/9781492037644/)
+- 🌕 [<b>The Opinionated Guide to React</b> - <i>Sara Vieira</i>](https://leanpub.com/fljs)
 
 ## Books I would like to read next
 
