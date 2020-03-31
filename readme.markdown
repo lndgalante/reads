@@ -103,6 +103,7 @@
 
 ## Related
 
+- [<b>📕 The 25 best programming books of all-time. A data-backed answer</i>](https://www.daolf.com/posts/best-programming-books)
 - ☘ [<b>Medium</b> - <i>12 Books Every JavaScript Developer Should Read</i>](https://medium.com/javascript-scene/12-books-every-javascript-developer-should-read-9da76157fb3#.3z9dzgjn9)
 - 📖 [<b>JavaScript Books</b> - <i>Dr. Axel Rauschmayer</i>](http://exploringjs.com)
 - 📖 [<b>Coding for Interviews</b> - <i>Brian Jordan</i>](http://codingforinterviews.com/books)
