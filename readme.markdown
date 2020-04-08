@@ -67,6 +67,7 @@
 - 🌑 [<b>TypeScript Deep Dive - Basarat Ali Syed</i>](https://bit.ly/1WyKNUo)
 - 🌑 [<b>Serverless Handbook for Frontend Engineers - Swizec</i>](https://serverlesshandbook.dev)
 - 🌑 [<b>JavaScript-mancy</b> - <i>Jaime González García</i>](https://www.javascriptmancy.com)
+- 🌑 [<b>Elements of Programming</b> - <i>Alexander Stepanov and Paul McJones</i>](http://elementsofprogramming.com/)
 
 ## GitHub Repos
 
