@@ -102,6 +102,7 @@
 - [<b>The Pragmatic Bookshelf</b>](https://pragprog.com)
 - [<b>Rosenfeld</b>](https://rosenfeldmedia.com/books)
 - [<b>Manning Publications</b>](https://www.manning.com/)
+- [<b>Amazon Best Sellers</b>](https://www.amazon.com/Best-Sellers-Kindle-Store-Software-Development/zgbs/digital-text/156145011)
 
 ## Related
 
