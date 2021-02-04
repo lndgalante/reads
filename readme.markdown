@@ -95,6 +95,7 @@
 
 ## Great Editorials
 
+- [<b>MIT Press</b>](https://mitpress.mit.edu/best-sellers)
 - [<b>Smashing Magazine</b>](https://www.smashingmagazine.com/printed-books)
 - [<b>No Starch Press</b>](https://nostarch.com)
 - [<b>A Book Apart</b>](https://abookapart.com)
