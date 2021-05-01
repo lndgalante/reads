@@ -69,6 +69,7 @@
 - 🌑 [<b>JavaScript-mancy</b> - <i>Jaime González García</i>](https://www.javascriptmancy.com)
 - 🌑 [<b>Elements of Programming</b> - <i>Alexander Stepanov and Paul McJones</i>](http://elementsofprogramming.com/)
 - 🌑 [<b>Cracking the Coding Career: Building an Exceptional Career from Code Newbie to Senior Developer</b> - <i>swyx</i>](https://gumroad.com/l/bAZJq)
+- 🌑 [<b>Cracking the Coding Career: Building an Exceptional Career from Code Newbie to Senior Developer</b> - <i>swyx</i>](https://gumroad.com/l/nextgendev/grow)
 
 ## GitHub Repos
 
